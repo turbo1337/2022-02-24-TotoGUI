@@ -51,6 +51,7 @@ namespace _2022_02_24_TotoGUI
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(181, 20);
             this.textBox1.TabIndex = 1;
+            this.textBox1.Text = "12X12X12X12X12";
             // 
             // checkBox1
             // 
@@ -76,7 +77,7 @@ namespace _2022_02_24_TotoGUI
             // 
             this.button1.Location = new System.Drawing.Point(28, 176);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(113, 23);
+            this.button1.Size = new System.Drawing.Size(160, 23);
             this.button1.TabIndex = 4;
             this.button1.Text = "Eredmenyek mentese";
             this.button1.UseVisualStyleBackColor = true;
